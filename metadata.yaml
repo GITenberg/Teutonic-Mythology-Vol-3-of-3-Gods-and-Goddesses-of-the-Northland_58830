@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '4534'
     url: http://www.gutenberg.org/2009/agents/4534
     wikipedia: http://en.wikipedia.org/wiki/Rasmus_B._Anderson
+covers:
+- cover_type: archival
+  image_path: 58830-h/images/cover.jpg
 creator:
   author:
     agent_name: Rydberg, Viktor
@@ -27,6 +30,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Viktor_Rydberg
     - http://en.wikipedia.org/wiki/Viktor_Rydberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58830#Teutonic-Mythology-Vol-3-of-3-Gods-and-Goddesses-of-the-Northland
 gutenberg_issued: '2019-02-04'
 gutenberg_type: Text
 identifiers:
